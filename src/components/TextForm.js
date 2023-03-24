@@ -48,7 +48,7 @@ export default function TextForm(props) {
         <button className="btn btn-primary mx-2 my-1" onClick={handleExtraSpaces}>remove extra spaces</button>
         <div>
           <button className="btn btn-primary mx-2 my-2" onClick={clearOnClick}>clear</button>
-          <button className="btn btn-primary mx-2 my-2" onClick={copyOnClick}>copy</button>
+          <button disabled={text.length===0} className="btn btn-primary mx-2 my-2" onClick={copyOnClick}>copy</button>
         </div>
       </div>
       <div className="container my-2 mx-1" style={{color: props.mode==='light'?'black':'white'}}>

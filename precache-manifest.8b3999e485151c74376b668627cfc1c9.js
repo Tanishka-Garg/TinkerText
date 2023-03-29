@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "615e32de4e175a6ae4d9",
+    "revision": "1a03998340453f4d5607",
     "url": "/TinkerText/static/css/main.55c1680f.chunk.css"
   },
   {
-    "revision": "615e32de4e175a6ae4d9",
-    "url": "/TinkerText/static/js/main.615e32de.chunk.js"
+    "revision": "1a03998340453f4d5607",
+    "url": "/TinkerText/static/js/main.1a039983.chunk.js"
   },
   {
     "revision": "444f0bc38a785630c6eb",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/TinkerText/static/js/runtime~main.9cc69545.js"
   },
   {
-    "revision": "169d5b3b473123e50936f47da8c43dd3",
+    "revision": "16edc87f037159547679daa179f0b16a",
     "url": "/TinkerText/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
   "main.css": "/TinkerText/static/css/main.55c1680f.chunk.css",
-  "main.js": "/TinkerText/static/js/main.615e32de.chunk.js",
-  "main.js.map": "/TinkerText/static/js/main.615e32de.chunk.js.map",
+  "main.js": "/TinkerText/static/js/main.1a039983.chunk.js",
+  "main.js.map": "/TinkerText/static/js/main.1a039983.chunk.js.map",
   "static/js/1.444f0bc3.chunk.js": "/TinkerText/static/js/1.444f0bc3.chunk.js",
   "static/js/1.444f0bc3.chunk.js.map": "/TinkerText/static/js/1.444f0bc3.chunk.js.map",
   "static/js/2.7401d9e3.chunk.js": "/TinkerText/static/js/2.7401d9e3.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/TinkerText/static/js/runtime~main.9cc69545.js.map",
   "static/css/main.55c1680f.chunk.css.map": "/TinkerText/static/css/main.55c1680f.chunk.css.map",
   "index.html": "/TinkerText/index.html",
-  "precache-manifest.50e0568d0d05c4de31e784806f0ac54d.js": "/TinkerText/precache-manifest.50e0568d0d05c4de31e784806f0ac54d.js",
+  "precache-manifest.8b3999e485151c74376b668627cfc1c9.js": "/TinkerText/precache-manifest.8b3999e485151c74376b668627cfc1c9.js",
   "service-worker.js": "/TinkerText/service-worker.js"
 }
